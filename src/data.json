@@ -1,0 +1,72 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": [
+            "London",
+            "Berlin",
+            "Paris",
+            "Madrid"
+        ],
+        "answer": "Paris"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": [
+            "Mars",
+            "Jupiter",
+            "Saturn",
+            "Neptune"
+        ],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "options": [
+            "50 degrees Celsius",
+            "75 degrees Celsius",
+            "100 degrees Celsius",
+            "125 degrees Celsius"
+        ],
+        "answer": "100 degrees Celsius"
+    },
+    {
+        "question": "Who wrote '1984'?",
+        "options": [
+            "George Orwell",
+            "Aldous Huxley",
+            "Ray Bradbury",
+            "Ernest Hemingway"
+        ],
+        "answer": "George Orwell"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+            "Ag",
+            "Au",
+            "Fe",
+            "Cu"
+        ],
+        "answer": "Au"
+    },
+    {
+        "question": "What is the speed of light?",
+        "options": [
+            "299,792 km/s",
+            "150,000 km/s",
+            "200,000 km/s",
+            "350,000 km/s"
+        ],
+        "answer": "299,792 km/s"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Michelangelo"
+        ],
+        "answer": "Leonardo da Vinci"
+    }
+]
